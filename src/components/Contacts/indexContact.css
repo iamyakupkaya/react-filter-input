@@ -1,0 +1,25 @@
+#container {
+  width: 400px;
+  background-color: aliceblue;
+  padding: 20px;
+}
+
+input{
+    width:100%;
+    pading: 5px;
+    box-sizing: border-box;
+    --webkit-box-sizing: border-box;
+    --moz-box-sizing: border-box;
+}
+.noResult{
+    color:red;
+    font-size: bold;
+    text-align: center;
+    margin-top:10px;
+}
+
+#list{
+    background-color:lightgreen;
+    font-style:italic;
+    margin: 2px;
+}
